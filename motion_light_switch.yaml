@@ -1,3 +1,4 @@
+# Testing the workflow
 blueprint:
   name: Motion-activated Light Switch
   description: Turn on a switch when motion is detected.
